@@ -5,7 +5,7 @@ Kelas: TI.24.A.5 <p>
 Mata Kuliah: Pemrograman <p>
 ## program input nilai
 berikut adalah Flowchart nya: <p>
-
+![gambar1](D1.PNG) <p>
 ```
 print("\nProgram Input Nilai")
 print("===================")
