@@ -6,6 +6,7 @@ Mata Kuliah: Pemrograman <p>
 ## program input nilai
 berikut adalah Flowchart nya: <p>
 ![gambar1](D1.PNG) <p>
+### dan ini adalah program python nya <p>
 ```
 print("\nProgram Input Nilai")
 print("===================")
