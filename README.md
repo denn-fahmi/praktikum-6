@@ -91,7 +91,8 @@ if __name__ == "__main__":
 
  - Fungsi ```main``` adalah fungsi utama yang menjalankan program.
    - Variabel ```students``` menyimpan daftar objek ```Student```.
-   - Program menampilkan menu dan menangani pilihan pengguna:
+   - Program menampilkan menu dan menangani pilihan pengguna: <p>
+     ![gambar2](D2.PNG) <p> 
      - **Tambah (```t```)**: Menambah data mahasiswa baru ke dalam daftar ```students```.
      - **Lihat (```l```)**: Menampilkan daftar mahasiswa.
      - **Ubah (```u```)**: Mengubah data mahasiswa berdasarkan Nama yang diberikan. Jika Nama ditemukan, data mahasiswa diperbarui dengan data baru.
